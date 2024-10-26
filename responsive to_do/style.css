@@ -4,7 +4,36 @@
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
+#menu-links {
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  background-color: rgb(83, 17, 83);
+  padding: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
 
+#menu-links a {
+  display: block;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 8px 0;
+}
+#hamburger menu{
+  position: fixed; /* Fix to the top-left corner */
+  top: 20px;
+  left: 20px;
+  height: 45px;
+  width: 24px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: linear-gradient(135deg, #153677, #4e085f);;
+
+}
 .container {
   width: 100%;
   min-height: 100vh;
@@ -59,7 +88,7 @@ button {
   font-size: 16px;
   cursor: pointer;
   border-radius: 40px;
-  transition: background 0.3s ease;
+  transition: background 0.3s ease;/* to smoother the change in color*/
 }
 
 button:hover {
