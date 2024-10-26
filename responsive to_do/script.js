@@ -1,6 +1,10 @@
 const inputBox=document.getElementById("input-box");
 const listContainer=document.getElementById("list-container");
 
+function toggleMenu() {
+    const menuLinks = document.getElementById("menu-links");
+    menuLinks.style.display = menuLinks.style.display === "none" ? "block" : "none";
+}
 
 function addTask(){
     if(inputBox.value===''){
