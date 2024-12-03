@@ -1,4 +1,4 @@
-📝<h1><b>Responsive To-Do List Application</h1></b><br>
+h1><b>📝<Responsive To-Do List Application</h1></b><br>
 A clean, user-friendly, and responsive web application that empowers users to create, manage, and organize their personalized to-do lists. Whether you're planning your day, tracking goals, or managing projects, this app ensures a seamless experience across devices.
 <br>
 🌟 <b>Features</b><br>
