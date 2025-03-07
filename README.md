@@ -17,8 +17,9 @@ A clean, user-friendly, and responsive web application that empowers users to cr
 
 Below are some demo screenshots of the application:
 
-![Demo Screenshot 1](https://github.com/user-attachments/assets/99a7dff9-a618-406c-b48e-0899f9a499a6)
-![Demo Screenshot 2](https://github.com/user-attachments/assets/37cde81d-ea8e-4ef4-a002-690ace36a160)
+![image](https://github.com/user-attachments/assets/5efebabb-215c-4bc1-abfe-d444fc803628)
+
+
 
 ---
 
